@@ -1,33 +1,38 @@
-# Hi there, I'm Tiger Schueler! 👋
+# Hey, I'm Tiger Schueler! 👋
 
-I'm a Computer Science and Systems (CSS) student at the University of Washington Tacoma, with a strong passion for **low-level programming**, **systems development**, and **security-focused software design**. My interests lie in exploring the inner workings of computers, from the depths of operating systems and compilers to the intricacies of secure coding and cryptography. Over the course of my senior year, I will be diving deeper into these topics to prepare for future opportunities in systems programming, cybersecurity, and performance-critical software development.
+I'm a **Computer Science and Systems (CSS)** student at the **University of Washington Tacoma**, entering my senior year with a **minor in Mathematics**. I’m passionate about **low-level systems programming**, **security**, and **artificial intelligence**. My coursework reflects a focus on learning topics like **computer architecture**, **compiler construction**, **operating systems**, and **machine learning**, all while building a strong mathematical foundation that complements my computer science studies.
 
-## 🔧 Skills & Technologies
-- **Languages:** Java (primary), C++ (currently learning)
-- **Technologies:** LibGDX, Git
-- **Specialties:** Game Development (Java & LibGDX), Data Structure and Algorithms (DSA)
+## 💡 What I'm Focused On:
+As I enter my final year, I’m honing my skills in **systems design**, **AI**, **security**, and **mathematical reasoning**. I aim to apply this knowledge to solve real-world problems in software development, with a focus on building **efficient**, **secure**, and **scalable** systems.
 
-## 📚 Currently Learning
-- **C++** to deepen my understanding of systems-level programming and low-level design.
-- **Data Structures and Algorithms** to strengthen my problem-solving abilities.
-- Preparing for courses in **Secure Coding Principles**, **Database System Design**, **AI & Knowledge Acquisition**, **Cryptography**, and **Natural Language Processing** to build a strong foundation in both theory and practical application.
+### 🎓 Senior Year Courses:
+Here’s a breakdown of the key courses I’ll be taking during my senior year:
 
-## 🎯 Future Goals 
-- Aiming for a **summer internship in 2025** by building expertise in C++, secure coding practices, and systems programming.
-- Developing a portfolio of projects that demonstrate a deep understanding of low-level concepts, performance optimization, and secure software design.
+#### **Winter 2025**
+- **Computer Architecture (TCSS 372)**
+- **Compiler Construction (TCSS 421)**
+- **Introduction to Machine Learning (TCSS 455)**
 
-## 💻 Featured Projects
-- [**Dungeon Adventure**](https://github.com/BigCatSoftware/Dungeon-Adventure): A 2D dungeon RPG developed using Java and LibGDX, featuring a Binary Space Partitioning (BSP) algorithm for randomly generated dungeons. The game also includes combat mechanics, item management, and stat tracking.
+#### **Spring 2025**
+- **Operating Systems (TCSS 422)**
+- **Introduction to Cryptography (TCSS 487)**
+- **Introduction to Natural Language Processing (TCSS 456)**
 
-## 📚 Senior Courses I'm Excited About
-- **TCSS 421 - Compiler Construction:** Learning how to build compilers and understand language parsing and optimization techniques.
-- **TCSS 422 - Computing Operating Systems:** Diving deep into process management, memory allocation, and other core OS concepts.
-- **TCS 483 - Secure Coding Principles:** Focusing on writing safe, secure code to prevent vulnerabilities.
-- **TCSS 445 - Database System Design:** Exploring efficient data management and storage strategies.
-- **TCSS 435 - AI & Knowledge Acquisition:** Studying algorithms and techniques for building intelligent systems.
-- **TCSS 487 - Intro to Cryptography:** Understanding encryption methods and secure communications.
+#### **Autumn 2025**
+- **Database Systems Design (TCSS 445)**
+- **AI & Knowledge Acquisition (TCSS 435)**
+- **Mathematical Reasoning (TMATH 300)**
 
-## 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/tigerschueler)
+## 🛠 Skills & Technologies:
+Here’s a snapshot of the tools and skills I’ve developed throughout my academic journey:
+- **Languages**: Java (primary), C++(beginner), Python(beginner)
+- **Technologies**: LibGDX, Git, Linux
 
-Feel free to reach out if you’re interested in collaboration or have any feedback on my projects!
+## 🚀 Projects:
+Here’s a showcase of some of the work I’ve done:
+
+- [**Dungeon Adventure**](https://github.com/BigCatSoftware/Dungeon-Adventure): A 2D dungeon RPG featuring randomly generated dungeons, combat mechanics, item management, and player stats, built using Java and LibGDX.
+
+## 🎯 Future Goals:
+- Securing an **internship in summer 2025** focused on **systems programming**, **AI**, or **cybersecurity**.
+- Securing a **Software Engineer** role after graduating in **Autumn 2025**, where I can apply my skills in **systems programming**, **AI**, and **security** to develop efficient and secure software solutions.
