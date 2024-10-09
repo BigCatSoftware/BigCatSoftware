@@ -1,12 +1,12 @@
-# Hey, I'm Tiger Schueler! 👋
+# Hey there, I'm Tiger Schueler! 👋
 
-I'm a **Computer Science and Systems (CSS)** student at the **University of Washington Tacoma**, entering my senior year with a **minor in Mathematics**. I’m passionate about **low-level systems programming**, **security**, and **artificial intelligence**. My coursework reflects a focus on learning topics like **computer architecture**, **compiler construction**, **operating systems**, and **machine learning**, all while building a strong mathematical foundation that complements my computer science studies.
+I’m currently a **Computer Science and Systems (CSS)** student at the **University of Washington Tacoma**, and I’m excited to be heading into my senior year with a **minor in Mathematics**. I have a keen interest in **low-level systems programming**, **AI**, and **machine learning**. The current tech boom in AI fascinates me, especially how it’s weaving its way into various sectors and changing the way we interact with software and data.
 
 ## 💡 What I'm Focused On:
-As I enter my final year, I’m honing my skills in **systems design**, **AI**, **security**, and **mathematical reasoning**. I aim to apply this knowledge to solve real-world problems in software development, with a focus on building **efficient**, **secure**, and **scalable** systems.
+As I enter my final year, I’m working hard to sharpen my skills in **systems design**, **AI**, **machine learning**, and **mathematical reasoning**. I'm eager to apply what I learn to create efficient, secure, and scalable solutions that make a real impact in the tech world.
 
 ### 🎓 Senior Year Courses:
-Here’s a breakdown of the key courses I’ll be taking during my senior year:
+Here’s a glimpse of the exciting courses I'll be diving into this year:
 
 #### **Winter 2025**
 - **Computer Architecture (TCSS 372)**
@@ -24,9 +24,9 @@ Here’s a breakdown of the key courses I’ll be taking during my senior year:
 - **Mathematical Reasoning (TMATH 300)**
 
 ## 🛠 Skills & Technologies:
-Here’s a snapshot of the tools and skills I’ve developed throughout my academic journey:
-- **Languages**: Java (primary), C++(beginner), Python(beginner)
-- **Technologies**: LibGDX, Git, Linux
+Here’s a quick overview of the skills and tools I've picked up along the way:
+- **Languages**: Java (Primary Language), C++ (Beginner), Python (Beginner)
+- **Technologies**: Git, Linux, LibGDX
 
 ## 🚀 Projects:
 Here’s a showcase of some of the work I’ve done:
@@ -34,5 +34,5 @@ Here’s a showcase of some of the work I’ve done:
 - [**Dungeon Adventure**](https://github.com/BigCatSoftware/Dungeon-Adventure): A 2D dungeon RPG featuring randomly generated dungeons, combat mechanics, item management, and player stats, built using Java and LibGDX.
 
 ## 🎯 Future Goals:
-- Securing an **internship in summer 2025** focused on **systems programming**, **AI**, or **cybersecurity**.
-- Securing a **Software Engineer** role after graduating in **Autumn 2025**, where I can apply my skills in **systems programming**, **AI**, and **security** to develop efficient and secure software solutions.
+- Land a **software engineering internship in summer 2025** to gain hands-on experience and get ready to jump into the industry.
+- Secure a **Software Engineer** role after graduating in **Autumn 2025**, where I can put my skills to use and develop innovative software that tackles real-world challenges.
