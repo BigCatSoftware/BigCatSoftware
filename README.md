@@ -16,7 +16,7 @@ Here’s a glimpse of the exciting courses I'll be diving into this year:
 #### **Spring 2025**
 - **Operating Systems (TCSS 422)**
 - **Introduction to Natural Language Processing (TCSS 456)**
-- **Database System Internals (TCSS 445)**
+- **Database System Internals (TCSS 446)**
 
 #### **Autumn 2025**
 - **Mathematical Reasoning (TMATH 300)**
