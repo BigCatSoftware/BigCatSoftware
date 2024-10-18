@@ -10,18 +10,18 @@ Here’s a glimpse of the exciting courses I'll be diving into this year:
 
 #### **Winter 2025**
 - **Computer Architecture (TCSS 372)**
-- **Compiler Construction (TCSS 421)**
 - **Introduction to Machine Learning (TCSS 455)**
+- **Database Systems Design (TCSS 445)**
 
 #### **Spring 2025**
 - **Operating Systems (TCSS 422)**
-- **Introduction to Cryptography (TCSS 487)**
 - **Introduction to Natural Language Processing (TCSS 456)**
+- **Database System Internals (TCSS 445)**
 
 #### **Autumn 2025**
-- **Database Systems Design (TCSS 445)**
-- **AI & Knowledge Acquisition (TCSS 435)**
 - **Mathematical Reasoning (TMATH 300)**
+- **AI & Knowledge Acquisition (TCSS 435)**
+- **Cryptography (TCSS 487)**
 
 ## 🛠 Skills & Technologies:
 Here’s a quick overview of the skills and tools I've picked up along the way:
