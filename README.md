@@ -10,7 +10,7 @@ Here’s a glimpse of the exciting courses I'll be diving into this year:
 
 #### **Winter 2025**
 - **Computer Architecture (TCSS 372)**
-- **Introduction to Machine Learning (TCSS 455)**
+- **Compiler Construction (TCSS 421)**
 - **Database Systems Design (TCSS 445)**
 
 #### **Spring 2025**
