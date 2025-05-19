@@ -1,41 +1,60 @@
-# Hey there, I'm Tiger Schueler! 👋
+# 👋 Hi, I'm Tiger Schueler!
 
-I’m currently a senior studying **Computer Science and Systems (CSS)** with a minor in **Mathematics** at the **University of Washington Tacoma**. My interests span **software engineering**, **AI**, and **data science**, with a growing interest in **Python**. I'm also interested in **blockchain technology** and **financial data programming**. It's an exciting time to be studying CSS, especially given the rapid technological advancements in recent years. As I prepare to enter the software field, I'm eager to explore opportunities in software development, AI development, data science, or any role where I can apply my skills to make a meaningful impact.
+I'm a Navy veteran and senior at the **University of Washington Tacoma**, pursuing a **B.S. in Computer Science and Systems** with a minor in **Mathematics** (Graduating August 2025). My primary focus is on **software engineering**, with strong interests in **backend** and **systems development**. I'm also exploring **full-stack development** and have an emerging interest in **AI and NLP**, with related coursework coming up in Summer 2025.
 
-## 💡 What I'm Focused On:
-As I wrap up my final year, I'm focused on deepening my expertise in **Python programming**, **data structures and algorithms**, and building a strong mathematical foundation. While I'm relatively new to **blockchain technology**, **financial data analysis**, and **artificial intelligence**, I'm actively exploring these exciting fields. I'm eager to apply my skills to design efficient, scalable systems, and to contribute to the ever-evolving tech landscape.
+---
 
-### 🎓 Senior Year Courses:
-Here’s a glimpse of the exciting courses I'm taking this year:
+## 💡 What I'm Focused On
+- Building robust software with Java and Python
+- Strengthening my foundations in systems programming, data structures, and algorithms
+- Gaining practical experience with SQL, C++, and C#
+- Learning more about full-stack and AI technologies through hands-on projects and coursework
 
-#### **Winter 2025 (Completed)**
-- **Computer Architecture (TCSS 372)**
-- **Compiler Construction (TCSS 421)**
-- **Database Systems Design (TCSS 445)**
+---
 
-#### **Spring 2025 (Current)**
-- **Operating Systems (TCSS 422)**
-- **Recent Research in Decentralized Finance Powered by Blockchain (TCSS 499)**
-- **Introduction to Mathematical Reasoning (TMATH 300)**
+## 🎓 Senior Year Coursework
 
-#### **Summer 2025 (Upcoming)**
-- **Differential Equations (TMATH 207)**
-- **Introduction to Natural Language Processing (TCSS 456)**
-- **Artificial Intelligence & Knowledge Acquisition (TCSS 435)**
+### **Winter 2025 (Completed)**
+- Computer Architecture
+- Compiler Construction
+- Database Systems Design
 
-## 🛠 Skills & Technologies:
-Here’s a quick overview of the skills and tools I've picked up along the way:
-- **Languages**: Java (Primary Language), C# (Beginner), C++ (Beginner), Python (Beginner)
-- **Technologies**: Git, Linux, LibGDX
+### **Spring 2025 (Current)**
+- Operating Systems
+- Blockchain Research Seminar
+- Mathematical Reasoning
 
-## 🚀 Projects:
-Here’s a showcase of some of the work I’ve done:
+### **Summer 2025 (Planned)**
+- Differential Equations
+- Natural Language Processing
+- Artificial Intelligence & Knowledge Acquisition
 
-- [**Dungeon Adventure**](https://github.com/BigCatSoftware/Dungeon-Adventure): A 2D dungeon RPG featuring randomly generated dungeons, combat mechanics, item management, and player stats, built using Java and LibGDX.
+---
 
-- [**CHIP-8 Emulator**](https://github.com/BigCatSoftware/chip-8): A C++ emulator for the CHIP-8 interpreter, originally implemented on the COSMAC VIP. This project uses **SDL3** for rendering and has been a valuable learning experience in low-level programming.
+## 🛠️ Skills & Tools
+- **Languages**: Java, Python, C++, C#, C
+- **Tools/Technologies**: Git, Linux, SDL3, ADO.NET, LibGDX, Windows Forms
+- **Concepts**: OOP, MVC, Unit Testing, Agile, Compiler Design, Emulation
 
-## 🎯 Future Goals:
-- Graduate with my **B.S. in Computer Science & Systems (CSS)** with a minor in Mathematics in **Summer 2025**.
-- Secure a **Software Engineer** role after graduating, that allows me to apply my technical skills and continue growing as a professional.
-- Expand my technical toolkit through hands-on experience and continuous learning in the workplace.
+---
+
+## 🚀 Projects
+
+### [J-- Compiler Extensions](https://github.com/BigCatSoftware/j--)
+Extended the j-- compiler (a Java subset) by modifying the scanner, parser, and semantic analyzer to support additional Java constructs including do-until loops, switch, and try-catch. Implemented type checking, symbol table updates, and contributed to JVM bytecode generation for control flow and exception handling.
+
+### [CHIP-8 Emulator](https://github.com/BigCatSoftware/chip-8)
+A minimal emulator built in C++ using SDL3, supporting classic CHIP-8 ROMs like the IBM logo demo. Demonstrates instruction decoding, rendering, and systems-level understanding.
+
+### [Game Server Admin Tool](https://github.com/BigCatSoftware/WizzardGamesGUI)
+A Windows Forms dashboard in C# connected to SQL Server, allowing game server management, analytics, and data visualization through stored procedures and UI controls.
+
+### [Dungeon Adventure](https://github.com/BigCatSoftware/Dungeon-Adventure)
+A 2D dungeon RPG built in Java with LibGDX featuring procedurally generated dungeons, combat, inventory, and stat systems.
+
+---
+
+## 🎯 Goals
+- Graduate with a B.S. in CSS + Math minor by Summer 2025
+- Begin a software engineering role focused on backend or systems development
+- Continue learning and expanding into full-stack and AI domains
