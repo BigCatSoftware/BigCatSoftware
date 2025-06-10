@@ -25,7 +25,7 @@ I'm a Navy veteran and senior at the **University of Washington Tacoma**, pursui
 - Mathematical Reasoning
 
 ### **Summer 2025 (Planned)**
-- Differential Equations
+- Cryptography
 - Natural Language Processing
 - Artificial Intelligence & Knowledge Acquisition
 
