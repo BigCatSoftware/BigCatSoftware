@@ -45,7 +45,7 @@ Production-grade implementation of **SHA-3 hash functions and SHAKE algorithms**
 Probabilistic modeling system implementing **power iteration algorithms** and **steady-state analysis** for random walk processes. Demonstrates **system reliability analysis** and **performance optimization** using advanced mathematical modeling with **PyAmaze** integration.
 
 **[Naive Bayes Sentiment Classifier](https://github.com/BigCatSoftware/naive-bayes-sentiment-classifier)**  
-Statistical text classification achieving **85%+ accuracy** using **Naive Bayes with Laplace smoothing**. Features comprehensive **NLTK pipeline**, **feature extraction**, and **error analysis** for large-scale movie review sentiment analysis.
+Statistical text classification using **Naive Bayes with Laplace smoothing**. Features comprehensive **NLTK pipeline**, **feature extraction**, and **error analysis** for large-scale movie review sentiment analysis.
 
 **[Graph Algorithm Analysis](https://github.com/BigCatSoftware/graph-algorithm-analysis)**  
 Network analysis system implementing **BFS/DFS algorithms**, **NetworkX integration**, and **Matplotlib visualizations**. Provides **decision tree optimization**, **pathfinding strategies**, and **performance metrics evaluation**.
