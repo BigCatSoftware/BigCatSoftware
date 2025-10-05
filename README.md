@@ -2,11 +2,11 @@
 
 I'm a **U.S. Navy veteran** with **Secret clearance** (current, eligible for reactivation) and **recent graduate** from the **University of Washington Tacoma** with a **B.S. in Computer Science and Systems** and a **Minor in Mathematics**. 
 
-My expertise spans **full-stack development and data science**, with strong foundations in **modern web technologies, statistical analysis, and mathematical modeling**. I bring **analytical problem-solving skills** and **leadership experience** from my Navy service, with a proven track record of delivering **scalable applications** and **data-driven insights**.
+My projects span **software engineering, full-stack development, AI/NLP, and data science**, with strong foundations in **modern web technologies, statistical analysis, and mathematical modeling**. I bring **analytical problem-solving skills** and **leadership experience** from my Navy service, with a proven track record of delivering **scalable applications** and **data-driven insights**.
 
 Currently seeking opportunities in:
-- **Full-Stack Development**: TypeScript, Next.js, and cloud architecture
-- **Software Engineering**: Backend development with Python/Java
+- **Software Engineering**: Backend development, systems programming, or application development
+- **Full-Stack Development**: Modern web technologies and microservices architecture
 - **Data Science**: Statistical modeling and algorithm optimization
 
 ---
@@ -31,13 +31,10 @@ Currently seeking opportunities in:
 
 ## Featured Projects
 
-### Full-Stack & Cloud Development
+### Full-Stack
 
-**[Full-Stack YouTube Clone](https://github.com/BigCatSoftware/youtube-clone)**  
-Scalable video streaming platform built with **TypeScript, Next.js, and Express**. Features **automated video processing pipeline** with **Google Cloud Storage**, **Firebase Authentication**, **Cloud Pub/Sub** for real-time notifications, and **ffmpeg transcoding** workflows.
-
-**[SHA3-SHAKE Cryptographic Library](https://github.com/BigCatSoftware/sha3-shake-library)**  
-Production-grade implementation of **SHA-3 hash functions and SHAKE algorithms** following **FIPS 202 specification**. Features **optimized Keccak-f[1600] permutation**, **CLI interface** with file hashing and MAC generation, plus comprehensive **NIST test vector validation**.
+**[PolicyWise Quote Engine](https://github.com/BigCatSoftware/PolicyWise-Quote-Engine)**  
+Full-stack insurance quoting platform demonstrating **polyglot microservices architecture**. Built with **Java Spring Boot backend**, **Python FastAPI risk analyzer**, and **React + Vite frontend**. Features **decoupled three-tier architecture**, **RESTful API design**, **specialized risk calculation service**, and **modern development tooling** for scalable enterprise applications.
 
 ### Data Science & Mathematical Modeling
 
@@ -52,6 +49,9 @@ Network analysis system implementing **BFS/DFS algorithms**, **NetworkX integrat
 
 ### Systems & Low-Level Development
 
+**[SHA3-SHAKE Cryptographic Library](https://github.com/BigCatSoftware/sha3-shake-library)**  
+Production-grade implementation of **SHA-3 hash functions and SHAKE algorithms** following **FIPS 202 specification**. Features **optimized Keccak-f[1600] permutation**, **CLI interface** with file hashing and MAC generation, plus comprehensive **NIST test vector validation**.
+
 **[CHIP-8 Emulator](https://github.com/BigCatSoftware/chip-8)**  
 Minimal emulator implementation with **instruction decoding** and **graphics rendering**. Demonstrates **systems programming** concepts, **memory management**, and **low-level optimization** for classic gaming hardware simulation.
 
@@ -62,7 +62,7 @@ Extended Java subset compiler with **scanner enhancements** for multi-line comme
 
 ## Career Objectives
 
-- **Full-Stack Developer** roles across diverse technology stacks and platforms
 - **Software Engineer** positions in backend development, systems programming, or application development
+- **Full-Stack Developer** roles across diverse technology stacks and platforms
 - **Data Scientist** opportunities in statistical modeling, machine learning, and analytical problem-solving
 - Advancing skills in **scalable system design**, **algorithm optimization**, and **predictive analytics**
