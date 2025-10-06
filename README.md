@@ -14,8 +14,8 @@ Currently seeking opportunities in:
 ## Skills & Tools
 
 ### Programming & Development
-- **Languages**: TypeScript, Python, Java, SQL, R
-- **Frontend/Full-Stack**: Next.js, React, TypeScript, HTML/CSS
+- **Languages**: Java, Python, JavaScript, TypeScript, SQL, R
+- **Frontend/Full-Stack**: Next.js, React, JavaScript, TypeScript, HTML/CSS
 - **Backend**: Express.js, Node.js, Python APIs
 - **Databases**: PostgreSQL, Microsoft SQL Server, Firebase
 - **Development**: Git, IntelliJ, PyCharm, WebStorm
@@ -35,6 +35,9 @@ Currently seeking opportunities in:
 
 **[PolicyWise Quote Engine](https://github.com/BigCatSoftware/PolicyWise-Quote-Engine)**  
 Full-stack insurance quoting platform demonstrating **polyglot microservices architecture**. Built with **Java Spring Boot backend**, **Python FastAPI risk analyzer**, and **React + Vite frontend**. Features **decoupled three-tier architecture**, **RESTful API design**, **specialized risk calculation service**, and **modern development tooling** for scalable enterprise applications.
+
+**[Personal Portfolio Website](https://github.com/BigCatSoftware/BigCatSoftware.github.io)**  
+Modern **React-based portfolio** showcasing professional background and technical projects. Features **responsive mobile-first design**, **smooth scrolling navigation**, and **component-based architecture** with Vite build tooling. Implements **comprehensive design system** with vibrant accent colors, **semantic HTML for accessibility**, and **CSS Grid/Flexbox layouts**. Includes interactive project showcase, integrated contact form, and optimized deployment via **GitHub Pages**.
 
 ### Data Science & Mathematical Modeling
 
