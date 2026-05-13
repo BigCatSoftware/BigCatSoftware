@@ -1,71 +1,23 @@
-# Hi, I'm Tiger Schueler!
+# Tiger Schueler
 
-I'm a **U.S. Navy veteran** with **Secret clearance** (current, eligible for reactivation) and **recent graduate** from the **University of Washington Tacoma** with a **B.S. in Computer Science and Systems** and a **Minor in Mathematics**. 
+Data Engineer in the Pacific Northwest. Yes, the username is on the nose. My name's Tiger, I make software, hence BigCatSoftware. The naming committee was small.
 
-My projects span **software engineering, full-stack development, AI/NLP, and data science**, with strong foundations in **modern web technologies, statistical analysis, and mathematical modeling**. I bring **analytical problem-solving skills** and **leadership experience** from my Navy service, with a proven track record of delivering **scalable applications** and **data-driven insights**.
+By day I'm in C# and T-SQL, building production data infrastructure at BNBuilders. I own a .NET 10 ETL platform that moves hundreds of millions of rows a day from Oracle ERP into Azure SQL. Built it from scratch over a few months to replace a third-party SaaS sync tool that was bleeding $20K a year. Multi-project solution, Worker Service on a VM, ASP.NET Core MVC web UI on Azure, the whole bit. I also do frontend modernization work on the side, mostly dragging legacy Telerik Kendo and jQuery apps into the Vite + React + TypeScript + Tailwind era.
 
-Currently seeking opportunities in:
-- **Software Engineering**: Backend development, systems programming, or application development
-- **Full-Stack Development**: Modern web technologies and microservices architecture
-- **Data Science**: Statistical modeling and algorithm optimization
+Off the clock, I get unreasonably interested in things that aren't strictly necessary for my job: cryptography, compilers, procedural generation, anything where the math is doing real work. Lately I've been tinkering with Godot (Mono build, C# scripting) and want to spend more time on shader coding. Passion projects, mostly. They may never ship. I'm okay with that.
 
----
+Background: B.S. in Computer Science & Systems from UW Tacoma with a math minor, plus K-12 math teaching during college. Four years in the Navy before that as a Mount Captain on a .50 cal crew. A few years before *that*, teaching martial arts (I hold a 3rd Dan ITF black belt).
 
-## Skills & Tools
+The rest of life is being a husband and father of two. The hobby projects fit in around them.
 
-### Programming & Development
-- **Languages**: Java, Python, JavaScript, TypeScript, SQL, R
-- **Frontend/Full-Stack**: Next.js, React, JavaScript, TypeScript, HTML/CSS
-- **Backend**: Express.js, Node.js, Python APIs
-- **Databases**: PostgreSQL, Microsoft SQL Server, Firebase
-- **Development**: Git, IntelliJ, PyCharm, WebStorm
+## Stack
 
-### Cloud & Data Science
-- **Cloud Platforms**: Google Cloud Platform, Firebase, Google Cloud Storage, Cloud Pub/Sub
-- **Data Science**: pandas, NumPy, NLTK, NetworkX, Matplotlib, scikit-learn, TensorFlow
-- **Statistics**: Statistical modeling, Markov chain analysis, probabilistic modeling
-- **Analytics Tools**: Jupyter Notebooks, Google Colab
-- **Media Processing**: ffmpeg transcoding and automated workflows
+- **Languages:** C#, T-SQL, Oracle SQL, TypeScript, JavaScript, Java, Python
+- **Frameworks:** .NET 10, ASP.NET Core MVC, ADO.NET, React, Tailwind CSS v4, shadcn/ui, TanStack Query, LibGDX
+- **Databases:** Microsoft SQL Server (Azure SQL), Oracle Database
+- **Tools:** Visual Studio 2022, Claude Code, SSMS, Oracle SQL Developer, Git, WSL/Ubuntu
 
----
+## Find me
 
-## Featured Projects
-
-### Full-Stack
-
-**[PolicyWise Quote Engine](https://github.com/BigCatSoftware/PolicyWise-Quote-Engine)**  
-Full-stack insurance quoting platform demonstrating **polyglot microservices architecture**. Built with **Java Spring Boot backend**, **Python FastAPI risk analyzer**, and **React + Vite frontend**. Features **decoupled three-tier architecture**, **RESTful API design**, **specialized risk calculation service**, and **modern development tooling** for scalable enterprise applications.
-
-**[Personal Portfolio Website](https://github.com/BigCatSoftware/BigCatSoftware.github.io)**  
-Modern **React-based portfolio** showcasing professional background and technical projects. Features **responsive mobile-first design**, **smooth scrolling navigation**, and **component-based architecture** with Vite build tooling. Implements **comprehensive design system** with vibrant accent colors, **semantic HTML for accessibility**, and **CSS Grid/Flexbox layouts**. Includes interactive project showcase, integrated contact form, and optimized deployment via **GitHub Pages**.
-
-### Data Science & Mathematical Modeling
-
-**[Markov Chain System Analysis](https://github.com/BigCatSoftware/markov-chain-maze-analysis)**  
-Probabilistic modeling system implementing **power iteration algorithms** and **steady-state analysis** for random walk processes. Demonstrates **system reliability analysis** and **performance optimization** using advanced mathematical modeling with **PyAmaze** integration.
-
-**[Naive Bayes Sentiment Classifier](https://github.com/BigCatSoftware/naive-bayes-sentiment-classifier)**  
-Statistical text classification using **Naive Bayes with Laplace smoothing**. Features comprehensive **NLTK pipeline**, **feature extraction**, and **error analysis** for large-scale movie review sentiment analysis.
-
-**[Graph Algorithm Analysis](https://github.com/BigCatSoftware/graph-algorithm-analysis)**  
-Network analysis system implementing **BFS/DFS algorithms**, **NetworkX integration**, and **Matplotlib visualizations**. Provides **decision tree optimization**, **pathfinding strategies**, and **performance metrics evaluation**.
-
-### Systems & Low-Level Development
-
-**[SHA3-SHAKE Cryptographic Library](https://github.com/BigCatSoftware/sha3-shake-library)**  
-Production-grade implementation of **SHA-3 hash functions and SHAKE algorithms** following **FIPS 202 specification**. Features **optimized Keccak-f[1600] permutation**, **CLI interface** with file hashing and MAC generation, plus comprehensive **NIST test vector validation**.
-
-**[CHIP-8 Emulator](https://github.com/BigCatSoftware/chip-8)**  
-Minimal emulator implementation with **instruction decoding** and **graphics rendering**. Demonstrates **systems programming** concepts, **memory management**, and **low-level optimization** for classic gaming hardware simulation.
-
-**[J-- Compiler Extensions](https://github.com/BigCatSoftware/j--)**  
-Extended Java subset compiler with **scanner enhancements** for multi-line comments and numeric literals, **parser improvements** with grammar rules, and **AST node implementation** for conditional expressions, loops, and exception handling.
-
----
-
-## Career Objectives
-
-- **Software Engineer** positions in backend development, systems programming, or application development
-- **Full-Stack Developer** roles across diverse technology stacks and platforms
-- **Data Scientist** opportunities in statistical modeling, machine learning, and analytical problem-solving
-- Advancing skills in **scalable system design**, **algorithm optimization**, and **predictive analytics**
+- Portfolio: [BigCatSoftware.github.io](https://BigCatSoftware.github.io/)
+- LinkedIn: [linkedin.com/in/tigerschueler](https://www.linkedin.com/in/tigerschueler/)
