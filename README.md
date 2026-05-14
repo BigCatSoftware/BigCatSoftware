@@ -4,9 +4,9 @@ Data Engineer in the Pacific Northwest. Yes, the username is on the nose. My nam
 
 By day I'm in C# and T-SQL, building production data infrastructure at BNBuilders. I own a .NET 10 ETL platform that moves hundreds of millions of rows a day from Oracle ERP into Azure SQL. Built it from scratch over a few months to replace a third-party SaaS sync tool that was bleeding $20K a year. Multi-project solution, Worker Service on a VM, ASP.NET Core MVC web UI on Azure, the whole bit. I also do frontend modernization work on the side, mostly dragging legacy Telerik Kendo and jQuery apps into the Vite + React + TypeScript + Tailwind era.
 
-Background: B.S. in Computer Science & Systems from UW Tacoma with a math minor, plus K-12 math teaching during college. Four years in the Navy before that as a Mount Captain on a .50 cal crew. A few years before *that*, teaching martial arts (I hold a 3rd Dan ITF black belt).
+Background: B.S. in Computer Science & Systems from UW Tacoma with a math minor. Before that, four years in the Navy: Aviation Ordnance and Mount Captain on a .50 cal crew aboard USS Nimitz, deployed April 2020 to March 2021. And a few years before *that*, teaching martial arts (I hold a 3rd Dan ITF black belt).
 
-Off the clock, I'm a husband and father of two. I'm a Christian; I read scripture, theology, and the church fathers, and I keep a steady stack of programming and software books going on the side. When there's time left, I'm either tinkering with passion projects in Godot (GDScript, Mono build, C# scripting, with shader coding on the list) or replaying old Nintendo games on the Switch 2.
+Off the clock, I'm a husband and father of two. I'm a Christian; I read scripture, theology, and the church fathers, and keep a steady stack of programming and software books going on the side. When there's time left, I'm either picking up MonoGame to build a hobby game in C# or replaying old Nintendo games on the Switch.
 
 ## Stack
 
