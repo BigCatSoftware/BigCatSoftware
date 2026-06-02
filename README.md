@@ -6,7 +6,7 @@ By day I'm in C# and T-SQL, building production data infrastructure at BNBuilder
 
 Background: B.S. in Computer Science & Systems from UW Tacoma with a math minor. Before that, four years in the Navy: Aviation Ordnance and Mount Captain on a .50 cal crew aboard USS Nimitz, deployed April 2020 to March 2021. And a few years before *that*, teaching martial arts (I hold a 3rd Dan ITF black belt).
 
-Off the clock, I'm a husband and father of two. I'm a Christian; I read scripture, theology, and the church fathers, and keep a steady stack of programming and software books going on the side. When there's time left, I'm either picking up MonoGame to build a hobby game in C# or replaying old Nintendo games on the Switch.
+Off the clock, I'm a husband and father of two. I'm a Christian; I read scripture, theology, and the church fathers, and keep a steady stack of programming and software books going on the side. When there's time left, or I'm holding my newborn, I'm either trying to beat a round of Balatro or cracking open a new book, an old hobby I've been picking back up. I'm also starting a Zibaldone to collect cool book quotes, stray thoughts, and things I've learned. Who knows where that will lead.
 
 ## Stack
 
